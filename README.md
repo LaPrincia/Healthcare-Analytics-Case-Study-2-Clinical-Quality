@@ -54,17 +54,17 @@ Executive leadership required a comprehensive reporting solution capable of tran
 
 ### SQL Scripts
 
-- [01_dashboard_1_clinical_quality_queries.sql](SQL/01_dashboard_1_clinical_quality_queries.sql) – SQL queries used to build Dashboard 1 (Clinical Quality Performance)
+- [01_Clinical_Quality_Performance_Query.sql](SQL/01_Clinical_Quality_Performance_Query.sql) – SQL queries used to build Dashboard 1 (Clinical Quality Performance)
 
-- [02_dashboard_1_clinical_quality_validation.sql](SQL/02_dashboard_1_clinical_quality_validation.sql) – Validation queries used to verify Dashboard 1 metrics
+- [02_Clinical_Quality_Performance_Validation.sql](SQL/02_Clinical_Quality_Performance_Validation.sql) – Validation queries used to verify Dashboard 1 metrics
 
-- [03_dashboard_1_powerbi_dataset.sql](SQL/03_dashboard_1_powerbi_dataset.sql) – Final Power BI dataset for Dashboard 1
+- [03_Clinical_Quality_Performance_Dataset.csv](SQL/03_Clinical_Quality_Performance_Dataset.csv) – Final dataset used for Dashboard 1
 
-- [04_dashboard_2_population_health_queries.sql](SQL/04_dashboard_2_population_health_queries.sql) – SQL queries used to build Dashboard 2 (Patient Risk & Population Health)
+- [04_Patient_Risk_Population_Query.sql](SQL/04_Patient_Risk_Population_Query.sql) – SQL queries used to build Dashboard 2 (Patient Risk & Population Health)
 
-- [05_dashboard_2_population_health_validation.sql](SQL/05_dashboard_2_population_health_validation.sql) – Validation queries used to verify Dashboard 2 metrics
+- [05_Patient_Risk_Population_Validation.sql](SQL/05_Patient_Risk_Population_Validation.sql) – Validation queries used to verify Dashboard 2 metrics
 
-- [06_dashboard_2_powerbi_dataset.sql](SQL/06_dashboard_2_powerbi_dataset.sql) – Final Power BI dataset for Dashboard 2
+- [06_CS2_Patient_Risk_Population_Dataset.sql](SQL/06_CS2_Patient_Risk_Population_Dataset.sql) – Final dataset script used for Dashboard 2
 
 ---
 
