@@ -1,0 +1,9 @@
+USE PalmettoRegionalHealthSystemDW;
+GO
+
+SELECT
+    *
+FROM dbo.PRHS_CS2_Page1_Clinical_Quality_Performance_Dataset
+ORDER BY
+    Dataset_Row_ID;
+GO
